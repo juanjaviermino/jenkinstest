@@ -1,0 +1,24 @@
+// Utils
+@import "./utils/variables";
+@import "./utils/mixins";
+
+// Global
+@import "./global/main";
+@import "./global/footer";
+
+// Pages
+@import "./pages/not-found-page";
+@import "./pages/landing-page";
+
+// Sections
+@import "./sections/banner-section";
+@import "./sections/aboutus-section";
+@import "./sections/rotary-section";
+
+// Components
+@import "./components/button";
+@import "./components/navbar";
+@import "./components/carousel";
+@import "./components/curvy-carousel";
+
+
